@@ -2,14 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Channels;
 using System.Threading.Tasks;
 
 namespace TestApp
 {
-    internal class Class1
+    internal class Class2
     {
-        Console.WriteLine("Class 1");
-
+        Console.WriteLine('Test');
     }
 }
